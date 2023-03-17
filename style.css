@@ -1,0 +1,127 @@
+body{
+    background-color: white;
+    color: #303133;
+    margin: auto;
+    padding: 0%;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+
+    font-size: 38px;
+    line-height: 44px;
+}
+
+h3{
+    margin:  0px 60px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+#container{
+    background-image: url(https://burgerkingfrance.twic.pics/img/animations/1bf084cb-68c5-4b1e-8ad2-0d5cae341651_?twic=v1/focus=auto/cover=2900x1269);
+    margin: auto;
+    background-size: 100% auto;
+    height: 630px;
+    width: 100%;
+    padding: 0%;
+    position: relative;
+
+}
+
+#btn{
+    background-color: #D62201;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+    text-align: center;
+    margin-top: 1000px;
+    left: 50%;
+    padding: 15px 30px;
+    position: absolute;
+    bottom: 15px;
+    left: 45%;
+
+}
+
+
+
+.products{
+    background-color: red;  
+    color: white;
+    text-decoration: none;
+    border-radius: 10%;
+    height: 20px;
+}
+
+#coco{
+    text-align: center;
+    margin: 0;
+}
+
+#product{
+    height: auto;
+    width: 100%;
+    display: inline;
+    vertical-align: middle;
+    max-width: 100%; 
+    border-radius: 5%;
+}
+
+.cards{
+    background-color: white;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    margin: 0;
+}
+
+h2{
+    text-align: left;
+}
+
+.fifi{
+    background-image: url(images/05adb165-9db7-4533-b6f6-0078e30a24a0_.webp);
+    margin: auto;
+    background-size: 100% auto;
+    height: 400px;
+    width: 100%;
+    padding: 0%;
+    position: relative;
+}
+
+#btn-white{
+    background-color: #F5EADC;
+    color: #502215;
+    text-decoration: none;
+    width: 200px;
+    border-radius: 5px; 
+    text-align: center;
+    margin-top: 1000px;
+    left: 50%;
+    right: 50%;
+    padding: 15px 30px;
+    position: absolute;
+    bottom: 15px;
+    left: 40%;
+    }
+
+#footer{
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+ul{
+    margin: 0;
+}
+
+li{
+    display: inline ;
+}
+
+
+
+
